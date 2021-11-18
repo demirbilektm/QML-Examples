@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomButton.qml</file>
+        <file>Logos/education.svg</file>
+        <file>Logos/hunger.png</file>
+        <file>Logos/poverty.svg</file>
+        <file>Logos/recycle-sign.svg</file>
+        <file>Logos/renewable-energy.svg</file>
+        <file>Logos/save-water.svg</file>
+        <file>Logos/water-waves.svg</file>
+        <file>Logos/gender-equality.svg</file>
+        <file>Logos/hunger.svg</file>
+    </qresource>
+</RCC>
