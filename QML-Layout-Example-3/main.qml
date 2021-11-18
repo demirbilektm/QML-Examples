@@ -32,7 +32,7 @@ Window {
           CustomButton {
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#297FEC",
+                                                   "#f3722c",
                                                    "No Poverty",
                                                    "qrc:/Logos/poverty.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-1-no-poverty.html");
@@ -40,7 +40,7 @@ Window {
           CustomButton {
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#5B39B4",
+                                                   "#43aa8b",
                                                    "Zero Hunger",
                                                    "qrc:/Logos/hunger.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-2-zero-hunger.html");
@@ -48,7 +48,7 @@ Window {
           CustomButton {
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#00991A",
+                                                   "#f94144",
                                                    "Quality Education",
                                                    "qrc:/Logos/education.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-4-quality-education.html");
@@ -65,7 +65,7 @@ Window {
              // Layout.columnSpan: 2
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#D74E2C",
+                                                   "#f9c74f,
                                                    "Responsible Consumption and Production",
                                                    "qrc:/Logos/recycle-sign.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-12-responsible-consumption-and-production.html");
@@ -76,7 +76,7 @@ Window {
 //              Layout.rowSpan: 2
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#297FEC",
+                                                   "#8338ec",
                                                    "Gender Equality",
                                                    "qrc:/Logos/gender-equality.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-5-gender-equality.html");
@@ -85,7 +85,7 @@ Window {
           CustomButton {
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#4CC8EF",
+                                                   "#90be6d",
                                                    "Affordable and Clean Energy",
                                                    "qrc:/Logos/renewable-energy.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-7-affordable-and-clean-energy.html");
@@ -93,7 +93,7 @@ Window {
           CustomButton {
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#2B965E",
+                                                   "#577590",
                                                    "Clean Water and Sanitation",
                                                    "qrc:/Logos/save-water.svg",
                                                    "https://www.jd.com/");
