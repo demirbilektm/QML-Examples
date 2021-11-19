@@ -65,7 +65,7 @@ Window {
              // Layout.columnSpan: 2
               textSize : btnTextSize
               Component.onCompleted: boxButtonInit(this,
-                                                   "#f9c74f,
+                                                   "#f9c74f",
                                                    "Responsible Consumption and Production",
                                                    "qrc:/Logos/recycle-sign.svg",
                                                    "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-12-responsible-consumption-and-production.html");
