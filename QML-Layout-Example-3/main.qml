@@ -96,7 +96,7 @@ Window {
                                                    "#577590",
                                                    "Clean Water and Sanitation",
                                                    "qrc:/Logos/save-water.svg",
-                                                   "https://www.jd.com/");
+                                                   "https://www.tr.undp.org/content/turkey/en/home/sustainable-development-goals/goal-6-clean-water-and-sanitation.html");
           }
     }
 
