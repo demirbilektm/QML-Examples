@@ -12,7 +12,7 @@ This repo has small code samples that I developed while learning QML Layouts. Yo
 ![](Layout-Example-2.JPG)
 
 # Layout 3
-![](Layout-Example-3.png)
+![](layout3.gif)
 
 
 
